@@ -10,3 +10,6 @@ An open-source JavaScript framework developed by Meta (formerly Facebook) in 201
 - Written in JavaScript.
 ### Compilation 
 - JavaScript in React Native doesn’t directly compile into native languages; instead, it uses a "bridge" to interact with native components and APIs for a native user experience.
+
+# React
+- React native is built on top of react
